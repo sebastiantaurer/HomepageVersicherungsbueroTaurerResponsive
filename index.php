@@ -23,14 +23,43 @@
 			<div class="row header">
 				<?php include ("header.php"); ?>
 			</div>
-			<hr>
 			<!--NAVIGATION-->
 			<div class="row">
-			
+				<?php include ("navigation.php"); ?>
 			</div>
 			<!--MAIN_AREA-->
 			<div class="row">
 				<div class="col-sm-12">
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
+					<h1>Willkommen!</h1>
 					<h1>Willkommen!</h1>
 				</div>
 			</div>
