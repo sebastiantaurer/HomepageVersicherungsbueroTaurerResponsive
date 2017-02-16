@@ -22,14 +22,16 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span> 
       </button>
-      <a class="navbar-brand" href="#">Taurer</a>
     </div>
+	
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Startseite</a></li>
-        <li><a href="#">Page 1</a></li>
-        <li><a href="#">Page 2</a></li> 
-        <li><a href="#">Page 3</a></li> 
+        <li id="startseite"><a href="index.php">Startseite</a></li>
+        <li id="versicherung"><a href="versicherung.php">Versicherung</a></li>
+        <li id="finanzierung"><a href="finanzierung.php">Finanzierung</a></li>
+        <li id="vorsorge"><a href="vorsorge.php">Vorsorge</a></li>
+		<li id="team"><a href="team.php">Team</a></li>
+		<li id="kontakt"><a href="kontakt.php">Kontakt</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#"><span class="glyphicon glyphicon-thumbs-up"></span> Like us on Facebook!</a></li>
