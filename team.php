@@ -35,15 +35,20 @@
 			<!--MAIN_AREA-->
 			<div class="row">
 				<div class="col-sm-12">
-					<h2>Team</h2>
+					<div class="row">
+						<div class="col-sm-12">
+							<h2>Team</h2>
+						</div>
+					</div>
 					<div class="row team">
 						<div class="col-sm-12">
 							<!--Michael Taurer-->
 							<div class="row">
+								<div class="col-sm-1"></div>
 								<div class="col-sm-3">
 									<img class="modalImage" alt="Michael Taurer" src="img/michaeltaurer.jpg"/>
 								</div>
-								<div class="col-sm-9">
+								<div class="col-sm-8">
 									<h1>Herr Michael Taurer</h1>
 									<h2>Gesch&auml;ftsf&uuml;hrung</h2>
 									<h3>Akademischer Finanzdienstleister</h3>
@@ -57,10 +62,11 @@
 							<br/>
 							<!--Karoline Taurer-->
 							<div class="row">
+								<div class="col-sm-1"><br/></div>
 								<div class="col-sm-3">
 									<img class="modalImage" alt="Karoline Taurer" src="img/karolinetaurer.jpg"/>
 								</div>
-								<div class="col-sm-9">
+								<div class="col-sm-8">
 									<h1>Frau Karoline Taurer</h1>
 									<h2>Kundenbetreuung</h2>
 									<h3>Staatlich gepr. Versicherungsmaklerin</h3>
@@ -72,10 +78,11 @@
 							<br/>
 							<!--Eva Madritsch-->
 							<div class="row">
+								<div class="col-sm-1"><br/></div>
 								<div class="col-sm-3">
 									<img class="modalImage" alt="Eva Madritsch" src="img/evamadritsch.jpg"/>
 								</div>
-								<div class="col-sm-9">
+								<div class="col-sm-8">
 									<h1>Frau Eva Madritsch</h1>
 									<h2>Kundenbetreuung</h2>
 									<p>Tel.: 04762/33 880</p>
@@ -85,10 +92,11 @@
 							<br/>
 							<!--Sebastian Taurer-->
 							<div class="row">
+								<div class="col-sm-1"><br/></div>
 								<div class="col-sm-3">
 									<img class="modalImage" alt="Sebastian Taurer" src="img/sebastiantaurer.jpg"/>
 								</div>
-								<div class="col-sm-9">
+								<div class="col-sm-8">
 									<h1>Herr Sebastian Taurer</h1>
 									<h2>IT Administrator</h2>
 									<p>Tel.: 04762/33 880</p>
@@ -98,10 +106,11 @@
 							<br/>
 							<!--Jimmy-->
 							<div class="row">
+								<div class="col-sm-1"><br/></div>
 								<div class="col-sm-3">
 									<img class="modalImage" alt="Jimmy" src="img/jimmy.jpg"/>
 								</div>
-								<div class="col-sm-9">
+								<div class="col-sm-8">
 									<h1>Jimmy</h1>
 									<h2>Unser Bürohund</h2>
 								</div>

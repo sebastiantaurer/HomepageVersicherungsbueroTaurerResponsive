@@ -35,7 +35,27 @@
 			<!--MAIN_AREA-->
 			<div class="row">
 				<div class="col-sm-12">
-					<h2>Finanzierung</h2>
+					<div class="row">
+						<div class="col-sm-12">
+							<h2>Finanzierung</h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-1">
+						</div>
+						<div class="col-sm-6">
+							<p>Die Versicherungs- & Finanzdienst<wbr>leistungs GmbH Taurer in Spittal erarbeitet und beantwortet mit 
+							Ihnen gemeinsam alle Fragen rund um Ihre Finanzierung.</p>
+							<br/>
+							<p>Die Erfahrung und die kompetente Abwicklung durch uns sichert Ihnen qualifizierte Beratung und Lösungen. </p>
+							<br/>
+							<p>Wir vermitteln Darlehen aller Art für den privaten
+							Wohnbau, für den Kauf einer KFZ oder KFZ Leasing.</p>
+						</div>
+						<div class="col-sm-5">
+							<img style="max-width:100%;" alt="finanzierung" src="img/finanzierung.jpg"/>
+						</div>
+					</div>
 				</div>
 			</div>
 			<!--FOOTER-->

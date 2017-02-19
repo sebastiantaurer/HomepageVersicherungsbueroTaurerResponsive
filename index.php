@@ -42,21 +42,21 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-sm-4">
+						<div class="col-sm-4 bottomspace">
 							<div class="col-sm-12 graybox">
 								<img src="img/versicherung.jpg"/>
 								<h3>Versicherung</h3>
 								<p>Versicherungen gibt es viele! Doch beim Versicherungsb&uuml;ro Taurer in Spittal sind SIE an 1. Stelle!</p>
 							</div>
 						</div>
-						<div class="col-sm-4">
+						<div class="col-sm-4 bottomspace">
 							<div class="col-sm-12 graybox">
 								<img src="img/finanzierung.jpg"/>
 								<h3>Finanzierung</h3>
 								<p>Die Erfahrung und die professionelle Abwicklung durch uns, das Versicherungs- Finanzierungsb&uuml;ro Taurer in Spittal sichern Ihnen qualifizierte Beratung und Service.</p>
 							</div>
 						</div>
-						<div class="col-sm-4">
+						<div class="col-sm-4 bottomspace">
 							<div class="col-sm-12 graybox">
 								<img src="img/vorsorge.jpg"/>
 								<h3>Vorsorge</h3>
