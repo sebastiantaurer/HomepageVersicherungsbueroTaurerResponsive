@@ -27,6 +27,11 @@ h3{
 .header {
 	text-align: center;
 }
+.header .fb{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	min-height: 20px;
+}
 /*END HEADER*/
 
 /*MAIN*/

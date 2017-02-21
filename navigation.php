@@ -33,9 +33,6 @@
 		<li id="team"><a href="team.php">Team</a></li>
 		<li id="kontakt"><a href="kontakt.php">Kontakt</a></li>
       </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#"><span class="glyphicon glyphicon-thumbs-up"></span> Like us on Facebook!</a></li>
-      </ul>
     </div>
   </div>
 </nav>
