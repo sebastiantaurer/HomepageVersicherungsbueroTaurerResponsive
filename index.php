@@ -50,19 +50,6 @@
 						</div>
 					</div>
 					<!--END MAIN-->
-					<br/>
-					<!--BEGIN MESSE SPITTAL-->
-					<div class="row">
-						<div class="col-sm-12">
-							<h2 style="text-align: center;">Von 24. - 26. M&auml;rz 2017 sind wir auf der Messe Spittal vertreten.<br/>Kommen Sie vorbei und lassen Sie sich beraten.</h2>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-sm-12">
-							<img class="modalImage" style="max-width: 30%; display: block; margin: 0 auto;" src="img/MesseSpittal.png"/>
-						</div>
-					</div>
-					<!--END MESSE SPITTAL-->
 				</div>
 			</div>
 			<!--FOOTER-->
