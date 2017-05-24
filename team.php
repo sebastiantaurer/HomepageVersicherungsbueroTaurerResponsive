@@ -41,7 +41,7 @@
 									<h3>Versicherungsagent</h3>
 									<p>Tel.: 04762/33 880</p>
 									<p>Mobil: 0699/18 79 54 27</p>
-									<p>E-Mail: michael.taurer@taurer.eu</p>
+									<p>E-Mail: <a href="mailto:michael.taurer@taurer.eu">michael.taurer@taurer.eu</a></p>
 								</div>
 							</div>
 							<br/>
@@ -57,7 +57,7 @@
 									<h3>Staatlich gepr. Versicherungsmaklerin</h3>
 									<p>Tel.: 04762/33 880</p>
 									<p>Mobil: 0660/654 9242</p>
-									<p>E-Mail: karoline.taurer@taurer.eu</p>
+									<p>E-Mail: <a href="mailto:karoline.taurer@taurer.eu">karoline.taurer@taurer.eu</a></p>
 								</div>
 							</div>
 							<br/>
@@ -71,7 +71,7 @@
 									<h1>Frau Eva Madritsch</h1>
 									<h2>Kundenbetreuung</h2>
 									<p>Tel.: 04762/33 880</p>
-									<p>E-Mail: eva.madritsch@taurer.eu</p>
+									<p>E-Mail: <a href="mailto:eva.madritsch@taurer.eu">eva.madritsch@taurer.eu</a></p>
 								</div>
 							</div>
 							<br/>
