@@ -24,6 +24,7 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<h2 style="text-align: center;">Willkommen bei der Versicherungs- & Finanzdienstleistungs GmbH Taurer!</h2>
+							<h4 style="text-align: center;">Das unabhängige Dienstleistungsunternehmen seit 2005!</h4>
 						</div>
 					</div>
 					<div class="row">
