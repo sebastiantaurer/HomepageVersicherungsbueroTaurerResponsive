@@ -39,7 +39,7 @@
 							<p>E-Mail.: <a href="mailto:michael.taurer@taurer.eu"> michael.taurer@taurer.eu</a></p>
 							<br>
 							<p>Aus allen richtigen Einsendungen verlosen wir 5 Tankgutscheine zu je  € 50,-</p>
-							<p>Einsendeschluss ist der 1. Dezember 2017</p>
+							<p>Einsendeschluss ist der 1. Dezember 2018</p>
 						</div>
 						<div class="col-sm-5">
 							<img style="max-width:100%;" alt="gewinnspiel" src="img/gewinnspiel.jpg"/>
