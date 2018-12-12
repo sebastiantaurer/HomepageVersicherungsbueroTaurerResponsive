@@ -32,7 +32,7 @@
         <li id="vorsorge"><a href="vorsorge.php">Vorsorge</a></li>
 		<li id="team"><a href="team.php">Team</a></li>
 		<li id="kontakt"><a href="kontakt.php">Kontakt</a></li>
-		<li id="gewinnspiel"><a href="gewinnspiel.php">Gewinnspiel</a></li>
+		<!--<li id="gewinnspiel"><a href="gewinnspiel.php">Gewinnspiel</a></li>-->
       </ul>
     </div>
   </div>
