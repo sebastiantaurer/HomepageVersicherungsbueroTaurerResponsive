@@ -93,7 +93,7 @@
 							<div class="row">
 								<div class="col-sm-1"><br/></div>
 								<div class="col-sm-3">
-									<img class="modalImage" alt="Barbara ???" src="img/barbara.jpg"/>
+									<img class="modalImage" alt="Barbara Morgenstern" src="img/barbaramorgenstern.jpg"/>
 								</div>
 								<div class="col-sm-8">
 									<h1>Frau Barbara Morgenstern</h1>
