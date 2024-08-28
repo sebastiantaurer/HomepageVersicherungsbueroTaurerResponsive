@@ -34,7 +34,7 @@
 							<p>9800 Spittal an der Drau</p>
 							<p>Telefon: 04762/33880</p>
 							<p>Fax: 04762/33880 - 20</p>	
-							<h3>E-Mail: <a href="mailto:michael.taurer@taurer.eu"> michael.taurer@taurer.eu</a></h3>
+							<h3>E-Mail: <a href="mailto:office.taurer@taurer.eu"> office.taurer@taurer.eu</a></h3>
 						</div>
 					</div>
 					<div class="row">
