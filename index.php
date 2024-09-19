@@ -50,17 +50,6 @@
 							</div>
 						</div>
 					</div>
-					<div class="row">
-						<div class="col-sm-12">
-							<h4> Weitere Produkte: <h4>
-							<ul>
-								<li><a href="https://www.uniqa.at/direktvertrieb/commlaunch/ReiseBuendel?refValue=tCUGhs2fZT8DGrcEZ8n2GA">UNIQA Reiseversicherung Rundumschutz</a></li>
-								<li><a href="https://www.uniqa.at/direktvertrieb/commlaunch/ReiseKv?refValue=tCUGhs2fZT8DGrcEZ8n2GA">UNIQA Auslandsreise-Krankenversicherung</a></li>
-								<li><a href="https://www.uniqa.at/direktvertrieb/commlaunch/ReiseStorno?refValue=tCUGhs2fZT8DGrcEZ8n2GA">UNIQA Reisestorno-Versicherung</a></li>
-								<li><a href="https://www.uniqa.at/direktvertrieb/commlaunch/Eura?refValue=tCUGhs2fZT8DGrcEZ8n2GA">UNIQA Reise-Krankenversicherung für ausländische Gäste</a></li>
-							</ul>
-						</div>
-					</div>
 					<!--END MAIN-->
 				</div>
 			</div>

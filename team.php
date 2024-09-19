@@ -55,6 +55,7 @@
 									<h1>Herr Fabian Taurer</h1>
 									<h2>Kundenbetreuung</h2>
 									<h3>Staatlich gepr. Versicherungsmakler</h3>
+									<h3>BÖV gepr. Versicherungsfachmann</h3>
 									<p>Tel.: <a href="tel:+43476233880">04762/33 880</a></p>
 									<p>Mobil: <a href="tel:+436648231298">0664/8231298</a></p>
 									<p>E-Mail: <a href="mailto:fabian.taurer@taurer.eu">fabian.taurer@taurer.eu</a></p>
@@ -85,7 +86,7 @@
 									<h1>Frau Stefanie Klump</h1>
 									<h2>Backoffice</h2>
 									<p>Tel.: <a href="tel:+43476233880">04762/33 880</a></p>
-									<p>E-Mail: <a href="mailto:stefanie.klump@taurer.eu">stefanie.klump@taurer.eu</a></p>
+									<p>E-Mail: <a href="mailto:office.taurer@taurer.eu">office.taurer@taurer.eu</a></p>
 								</div>
 							</div>
 							<br/>

@@ -32,8 +32,7 @@
 							<h2>Versicherungs- & Finanzdienst<wbr>leistungs GmbH Taurer</h2>
 							<p>Feldstraße 5</p>
 							<p>9800 Spittal an der Drau</p>
-							<p>Telefon: 04762/33880</p>
-							<p>Fax: 04762/33880 - 20</p>	
+							<h3>Telefon: <a href="tel:+43476233880">04762/33 880</a></h3>
 							<h3>E-Mail: <a href="mailto:office.taurer@taurer.eu"> office.taurer@taurer.eu</a></h3>
 						</div>
 					</div>

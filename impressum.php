@@ -86,8 +86,6 @@
 							<br>
 							Alle Texte sind urheberrechtlich geschützt.<br>
 							<br>
-							Quelle: Erstellt mit dem <a href="https://www.adsimple.at/impressum-generator/">Impressum Generator Österreich</a> von AdSimple.<br>
-							<br>
 						</div>
 					</div>
 
@@ -141,7 +139,12 @@
 							Sofern weitere regionale oder nationale Gesetze zur Anwendung kommen, informieren wir Sie in den folgenden Abschnitten darüber.
 
 							<h3>Kontaktdaten des Verantwortlichen</h3>
-							Sollten Sie Fragen zum Datenschutz oder zur Verarbeitung personenbezogener Daten haben, finden Sie nachfolgend die Kontaktdaten der verantwortlichen Person bzw. Stelle:
+							Sollten Sie Fragen zum Datenschutz oder zur Verarbeitung personenbezogener Daten haben, finden Sie nachfolgend die Kontaktdaten der verantwortlichen Person bzw. Stelle:<br><br>
+							
+							<b>Person:</b> Michael Taurer<br>
+							<b>Telefonnr.:</b> <a href="tel:+43476233880">04762/33 880</a><br>
+							<b>Mobil:</b> <a href="tel:+4369918795427">0699/18795427</a><br>
+							<b>E-Mail Adresse:</b> <a href="mailto:michael.taurer@taurer.eu">michael.taurer@taurer.eu</a><br>
 
 							<h3>Speicherdauer</h3>
 							Dass wir personenbezogene Daten nur so lange speichern, wie es für die Bereitstellung unserer Dienstleistungen und Produkte unbedingt notwendig ist, gilt als generelles Kriterium bei uns. Das bedeutet, dass wir personenbezogene Daten löschen, sobald der Grund für die Datenverarbeitung nicht mehr vorhanden ist. In einigen Fällen sind wir gesetzlich dazu verpflichtet, bestimmte Daten auch nach Wegfall des ursprüngliches Zwecks zu speichern, zum Beispiel zu Zwecken der Buchführung.<br>
@@ -210,10 +213,6 @@
 
 							Alle Texte sind urheberrechtlich geschützt.<br>
 							<br>
-
-							Quelle: Erstellt mit dem <a href="https://www.adsimple.at/datenschutz-generator/">Datenschutz Generator Österreich</a> von AdSimple.
-
-
 						</div>
 					</div>
 				</div>
