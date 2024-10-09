@@ -86,6 +86,8 @@
 							<br>
 							Alle Texte sind urheberrechtlich geschützt.<br>
 							<br>
+							Quelle: Erstellt mit dem <a href="https://www.adsimple.at/impressum-generator/">Impressum Generator Österreich</a> von AdSimple.<br>
+							<br>
 						</div>
 					</div>
 
@@ -212,6 +214,8 @@
 							<br>
 
 							Alle Texte sind urheberrechtlich geschützt.<br>
+							<br>
+							Quelle: Erstellt mit dem <a href="https://www.adsimple.at/impressum-generator/">Impressum Generator Österreich</a> von AdSimple.<br>
 							<br>
 						</div>
 					</div>
