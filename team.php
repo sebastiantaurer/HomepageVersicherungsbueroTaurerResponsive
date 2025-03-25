@@ -62,20 +62,6 @@
 								</div>
 							</div>
 							<br/>
-							<!--Johanna Pacher-->
-							<div class="row">
-								<div class="col-sm-1"><br/></div>
-								<div class="col-sm-3">
-									<img class="modalImage" alt="Johanna Pacher" src="img/johannapacher.jpg"/>
-								</div>
-								<div class="col-sm-8">
-									<h1>Frau Johanna Pacher</h1>
-									<h2>Backoffice</h2>
-									<p>Tel.: <a href="tel:+43476233880">04762/33 880</a></p>
-									<p>E-Mail: <a href="mailto:johanna.pacher@taurer.eu">johanna.pacher@taurer.eu</a></p>
-								</div>
-							</div>
-							<br/>
 							<!--Jimmy-->
 							<div class="row">
 								<div class="col-sm-1"><br/></div>
