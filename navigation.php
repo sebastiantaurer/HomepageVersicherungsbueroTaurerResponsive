@@ -30,9 +30,9 @@
         <li id="versicherung"><a href="versicherung.php">Versicherung</a></li>
         <li id="finanzierung"><a href="finanzierung.php">Finanzierung</a></li>
         <li id="vorsorge"><a href="vorsorge.php">Vorsorge</a></li>
-		<li id="team"><a href="team.php">Team</a></li>
-		<li id="kontakt"><a href="kontakt.php">Kontakt</a></li>
-		<!--<li id="gewinnspiel"><a href="gewinnspiel.php">Gewinnspiel</a></li>-->
+        <li id="team"><a href="team.php">Team</a></li>
+        <li id="impressum"><a href="impressum.php">Impressum</a></li>
+        <li id="kontakt"><a href="kontakt.php">Kontakt</a></li>
       </ul>
     </div>
   </div>

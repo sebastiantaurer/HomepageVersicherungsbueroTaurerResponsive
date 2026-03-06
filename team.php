@@ -40,65 +40,25 @@
 									<h3>Staatlich gepr. Versicherungsmakler</h3>
 									<h3>Versicherungsagent</h3>
 									<p>Tel.: <a href="tel:+43476233880">04762/33 880</a></p>
-									<p>Mobil: <a href="tel:+4369918795427">0699/18 79 54 27</a></p>
+									<p>Mobil: <a href="tel:+4369918795427">0699/18795427</a></p>
 									<p>E-Mail: <a href="mailto:michael.taurer@taurer.eu">michael.taurer@taurer.eu</a></p>
 								</div>
 							</div>
 							<br/>
-							<!--Karoline Taurer-->
+							<!--Fabian Taurer-->
 							<div class="row">
 								<div class="col-sm-1"><br/></div>
 								<div class="col-sm-3">
-									<img class="modalImage" alt="Karoline Taurer" src="img/karolinetaurer.jpg"/>
+									<img class="modalImage" alt="Fabian Taurer" src="img/fabiantaurer.jpg"/>
 								</div>
 								<div class="col-sm-8">
-									<h1>Frau Karoline Taurer</h1>
+									<h1>Herr Fabian Taurer</h1>
 									<h2>Kundenbetreuung</h2>
-									<h3>Staatlich gepr. Versicherungsmaklerin</h3>
+									<h3>Staatlich gepr. Versicherungsmakler</h3>
+									<h3>BÖV gepr. Versicherungsfachmann</h3>
 									<p>Tel.: <a href="tel:+43476233880">04762/33 880</a></p>
-									<p>Mobil: <a href="tel:+436606549242">0660/654 9242</a></p>
-									<p>E-Mail: <a href="mailto:karoline.taurer@taurer.eu">karoline.taurer@taurer.eu</a></p>
-								</div>
-							</div>
-							<br/>
-							<!--Sandra Perauer-->
-							<div class="row">
-								<div class="col-sm-1"><br/></div>
-								<div class="col-sm-3">
-									<img class="modalImage" alt="Sandra Perauer" src="img/anonymuswhite.png"/>
-								</div>
-								<div class="col-sm-8">
-									<h1>Frau Sandra Perauer</h1>
-									<h2>Backoffice</h2>
-									<p>Tel.: <a href="tel:+43476233880">04762/33 880</a></p>
-									<p>E-Mail: <a href="mailto:sandra.perauer@taurer.eu">sandra.perauer@taurer.eu</a></p>
-								</div>
-							</div>
-							<br/>
-							<!--Michelle Berger-->
-							<div class="row">
-								<div class="col-sm-1"><br/></div>
-								<div class="col-sm-3">
-									<img class="modalImage" alt="Michelle Berger" src="img/anonymuswhite.png"/>
-								</div>
-								<div class="col-sm-8">
-									<h1>Frau Michelle Berger</h1>
-									<h2>Backoffice</h2>
-									<p>Tel.: <a href="tel:+43476233880">04762/33 880</a></p>
-									<p>E-Mail: <a href="mailto:michelle.berger@taurer.eu">michelle.berger@taurer.eu</a></p>
-								</div>
-							</div>
-							<br/>
-							<!--Sebastian Taurer-->
-							<div class="row">
-								<div class="col-sm-1"><br/></div>
-								<div class="col-sm-3">
-									<img class="modalImage" alt="Sebastian Taurer" src="img/sebastiantaurer.jpg"/>
-								</div>
-								<div class="col-sm-8">
-									<h1>Herr Sebastian Taurer</h1>
-									<h2>IT Administrator</h2>
-									<p>Tel.: <a href="tel:+43476233880">04762/33 880</a></p>
+									<p>Mobil: <a href="tel:+436648231298">0664/8231298</a></p>
+									<p>E-Mail: <a href="mailto:fabian.taurer@taurer.eu">fabian.taurer@taurer.eu</a></p>
 								</div>
 							</div>
 							<br/>

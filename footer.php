@@ -1,1 +1,1 @@
-<p>&copy;Copyright Versicherungs- & Finanzdienstleistungs GmbH Taurer - 2017</p>
+<p>&copy;Copyright Michael Taurer Versicherungs- & Finanzdienstleistungs GmbH - <?php echo date("Y"); ?></p>
